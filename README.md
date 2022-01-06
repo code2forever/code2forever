@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code2forever
 - 👀 I’m interested in web development and learning new skills.
-- 🌱 I’m currently into competetive programming.
+- 🌱 I’m currently into competitive programming.
 - 💞️ I’m looking to collaborate on web projects.
 
 <!---
