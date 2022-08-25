@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 👨‍💻 Check out my React projects on [app.netlify.com/teams/code2forever](https://app.netlify.com/teams/code2forever/overview)  
+- 👨‍💻 Check out my **React projects** on [app.netlify.com/teams/code2forever](https://app.netlify.com/teams/code2forever/overview)  
 
-- 🌱 Currently learning **React and Blockchain**
+- 🌱 Currently learning **React.js and Blockchain Development**
 
 - 👯 Looking to collaborate on **web 2.0, web 3.0**
 
-- 👨‍💻 All of my projects are available at [KalashAgrahari.blogspot.com](KalashAgrahari.blogspot.com)
+- 👨‍💻 All of my **Projects** are available at [KalashAgrahari.blogspot.com](KalashAgrahari.blogspot.com)
 
 - 📝 Catch my other stuffs on [KalashAgrahari.blogspot.com](KalashAgrahari.blogspot.com)
 
