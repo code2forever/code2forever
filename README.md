@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my **Projects** are available at [KalashAgrahari.blogspot.com](KalashAgrahari.blogspot.com)
 
-- 📝 Catch my other stuffs on [drawlinguistic.blogspot.com](DrawLinguistic.blogspot.com)
+- 📝 Catch my other stuffs on [DrawLinguistic.blogspot.com](drawlinguistic.blogspot.com)
 
 - 💬 Ask me about **Full stack web development, Designing and Problem solving**
 
