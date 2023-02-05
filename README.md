@@ -1,5 +1,5 @@
 <h1 align="center">Your Journey For The Masterpiece Ends Here</h1>
-<h2 align="center"><img style="" src="KalashAgrahari.jpg" alt="nothing to show"/></h2>
+<h2 align="center"><img style="" src="KalashAgrahari.jpg" alt="Amazing Stuff"/></h2>
 <h1 align="center">Hey there 👋, I'm Kalash Agrahari<img src="hi.gif" width="150px" align="right"/></h1>
  
 <h3 align="center">A Tech Enthusiast From India</h3>
