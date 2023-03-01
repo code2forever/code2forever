@@ -31,7 +31,8 @@
 - ⌨️ Passionate **Typer** <img src="catcode.gif" alt="nothing to show" align="center" width="50px"/>
 
 <br/>
-
+<img src="flash.gif" alt="flashing horizontal"/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <img src="saitama.gif" alt="nothing to show" align="right" width="100px"/>
 <p align="left">
@@ -49,19 +50,21 @@
 <br/>
 
 
-<h1 align="center"><img src="mancoding.gif" alt="nothing to show" align="center" text-align="center"/></h1>
-<div>
+<div align="center"><img src="mancoding.gif" alt="nothing to show" align="center" text-align="center"/></div>
+<br/>
+<br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=code2forever&show_icons=true&theme=radical&locale=en&layout=compact" alt="code2forever" /></div>
 
 <br/>
 <br/>
-<br/>
  
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&theme=radical&locale=en" alt="code2forever" /></div>
-</div>
 
-<br/>
 <br/>
 <br/>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code2forever&theme=radical" alt="code2forever" /></div>
+<br/>
+<br/>
+<img src="flash.gif" alt="flashing horizontal"/>
