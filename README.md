@@ -1,5 +1,5 @@
 <h1 align="center">Your Journey For The Masterpiece Ends Here</h1>
-<h2 align="center"><img style="" src="KalashAgrahari.jpg" alt="Amazing Stuff"/></h2>
+<h2 align="center"><img src="KalashAgrahari.jpg" alt="Amazing Stuff"/></h2>
 <h1 align="center">Hey there 👋, I'm Kalash Agrahari<img src="hi.gif" width="150px" align="right"/></h1>
  
 <h3 align="center">A Tech Enthusiast From India</h3>
@@ -50,13 +50,18 @@
 
 
 <h1 align="center"><img src="mancoding.gif" alt="nothing to show" align="center" text-align="center"/></h1>
-
-<span align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code2forever&show_icons=true&theme=radical&locale=en&layout=compact" alt="code2forever" /></span>
-
-
-<span align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&theme=radical&locale=en" alt="code2forever" /></span>
+<div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=code2forever&show_icons=true&theme=radical&locale=en&layout=compact" alt="code2forever" /></div>
 
 <br/>
 <br/>
+<br/>
+ 
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&theme=radical&locale=en" alt="code2forever" /></div>
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code2forever&theme=radical" alt="code2forever" /></p>
+<br/>
+<br/>
+<br/>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code2forever&theme=radical" alt="code2forever" /></div>
