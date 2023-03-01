@@ -51,11 +51,12 @@
 
 <h1 align="center"><img src="mancoding.gif" alt="nothing to show" align="center" text-align="center"/></h1>
 
-<span align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code2forever&show_icons=true&locale=en&layout=compact" alt="code2forever" /></span>
+<span align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code2forever&show_icons=true&theme=radical&locale=en&layout=compact" alt="code2forever" /></span>
 
 
-<span align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&locale=en" alt="code2forever" /></span>
+<span align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&theme=radical&locale=en" alt="code2forever" /></span>
 
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code2forever&theme=gotham" alt="code2forever" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code2forever&theme=radical" alt="code2forever" /></p>
