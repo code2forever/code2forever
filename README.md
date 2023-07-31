@@ -1,6 +1,6 @@
 <h1 align="center">Your Journey For The Masterpiece Ends Here</h1>
 <h2 align="center"><img src="KalashAgrahari.jpg" alt="Amazing Stuff"/></h2>
-<h1 align="center">Hey there <sub><img width="50px" src="Wave.gif" alt="Wave hand"/></sub>, I'm Kalash Agrahari<img src="hi.gif" width="150px" align="right"/></h1>
+<h1 align="center">Hey there <sub><img width="50px" src="[Wave.gif](https://github.com/code2forever/code2forever/blob/master/Wave.gif)" alt="Wave hand"/></sub>, I'm Kalash Agrahari<img src="hi.gif" width="150px" align="right"/></h1>
  
 <h3 align="center">A Tech Enthusiast From India</h3>
 
