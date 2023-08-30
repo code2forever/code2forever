@@ -39,7 +39,7 @@
 <a href="https://linkedin.com/in/kalash-agrahari-7403b4220" target="blank"><img align="center" src="https://i.imgur.com/8NwLi1p.png" alt="kalash@linkedIn" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/bgpvvrU.png" alt="kalash@hackerRank" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WIhOVzm.jpg" alt="kalash@codeforces" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WVg5JLE.png" alt="kalash@leetcode" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WVg5JLE.png" alt="kalash@leetcode" height="45" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/nROhfhN.png" alt="kalash@GFG" height="30" width="50" /></a>
 </p>
 
@@ -56,6 +56,7 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/UuJUIbu.png" alt="firebase" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/AvweGSQ.png" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/evIMJwA.png" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/tqhhQ4O.png" alt="php" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/ZRWoVRo.png" alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IOTBWdr.png" alt="java" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/X8lLlmr.png" alt="javascript" width="40" height="40"/> </a>
