@@ -1,12 +1,12 @@
 <h1 align="center">Your Journey For The Masterpiece Ends Here</h1>
 <h2 align="center"><img src="https://i.imgur.com/DbrjBct.jpg" alt="Amazing Stuff"/></h2>
-<h1 align="center">Hey there <sub><img width="50px" src="https://i.imgur.com/dsEcTpo.gif" alt="Wave hand"/></sub>, I'm Kalash Agrahari<img src="hi.gif" width="150px" align="right"/></h1>
+<h1 align="center">Hey there <sub><img width="50px" src="https://i.imgur.com/dsEcTpo.gif" alt="Wave hand"/></sub>, I'm Kalash Agrahari<img src="https://i.imgur.com/6q1PBOK.gif" width="150px" align="right"/></h1>
  
 <h3 align="center">A Tech Enthusiast From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code2forever&label=Profile%20views&color=0e75b6&style=flat" alt="code2forever" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 - 🔭 I’m currently working on **React projects**
 
@@ -31,16 +31,16 @@
 - ⌨️ Passionate **Typer** <img src="https://i.imgur.com/7DRwq68.gif" alt="nothing to show" align="center" width="50px"/>
 
 <br/>
-<img src="flash.gif" alt="flashing horizontal"/>
+<img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <img src="saitama.gif" alt="nothing to show" align="right" width="100px"/>
 <p align="left">
-<a href="https://linkedin.com/in/kalash-agrahari-7403b4220" target="blank"><img align="center" src="https://i.imgur.com/8NwLi1p.png" alt="kalash@linkedIn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/bgpvvrU.png" alt="kalash@hackerRank" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WIhOVzm.jpg" alt="kalash@codeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WVg5JLE.png" alt="kalash@leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/nROhfhN.png" alt="kalash@GFG" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kalash-agrahari-7403b4220" target="blank"><img align="center" src="https://i.imgur.com/8NwLi1p.png" alt="kalash@linkedIn" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/bgpvvrU.png" alt="kalash@hackerRank" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WIhOVzm.jpg" alt="kalash@codeforces" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WVg5JLE.png" alt="kalash@leetcode" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/nROhfhN.png" alt="kalash@GFG" height="30" width="50" /></a>
 </p>
 
 
@@ -93,4 +93,4 @@
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code2forever&theme=radical" alt="code2forever" /></div>
 <br/>
 <br/>
-<img src="flash.gif" alt="flashing horizontal"/>
+<img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
