@@ -34,8 +34,8 @@
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
 <h3 align="left">Connect with me:</h3>
-<img src="https://i.imgur.com/yOp2PU2.gif" alt="saitama" align="right" width="100px"/>
-<p align="left">
+<img src="https://i.imgur.com/yOp2PU2.gif" alt="saitama" align="right" width="150px"/>
+<p align="left" style = "margin-bottom:200px">
 <a href="https://linkedin.com/in/kalash-agrahari-7403b4220" target="blank"><img align="center" src="https://i.imgur.com/8NwLi1p.png" alt="kalash@linkedIn" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/bgpvvrU.png" alt="kalash@hackerRank" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WIhOVzm.jpg" alt="kalash@codeforces" height="40" width="40" /></a>
