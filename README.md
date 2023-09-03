@@ -33,7 +33,7 @@
 <br/>
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me ☕</h3>
 <img src="https://i.imgur.com/yOp2PU2.gif" alt="saitama" align="right" width="200px"/>
 <p align="left">
 <a href="https://linkedin.com/in/kalash-agrahari-7403b4220" target="blank"><img align="center" src="https://i.imgur.com/8NwLi1p.png" alt="kalash@linkedIn" height="40" width="40" /></a>
