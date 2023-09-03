@@ -35,14 +35,23 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <img src="https://i.imgur.com/yOp2PU2.gif" alt="saitama" align="right" width="150px"/>
-<p align="left" style = "margin-bottom:200px">
+<p align="left">
 <a href="https://linkedin.com/in/kalash-agrahari-7403b4220" target="blank"><img align="center" src="https://i.imgur.com/8NwLi1p.png" alt="kalash@linkedIn" height="40" width="40" /></a>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/bgpvvrU.png" alt="kalash@hackerRank" height="40" width="40" /></a>
+ <br>
+ <br>
 <a href="https://codeforces.com/profile/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WIhOVzm.jpg" alt="kalash@codeforces" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WVg5JLE.png" alt="kalash@leetcode" height="45" width="40" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href="https://www.leetcode.com/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WVg5JLE.png" alt="kalash@leetcode" height="45" width="40" /></a>
+<br>
+ <br>
 <a href="https://auth.geeksforgeeks.org/user/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/nROhfhN.png" alt="kalash@GFG" height="30" width="50" /></a>
+ <a href="https://www.codingninjas.com/studio/profile/331e7f0a-fa28-42ce-a374-6dd87b338e70" target="blank"><img align="center" src="https://i.imgur.com/KeoooZi.png" alt="kalash@Codestudio" height="30" width="50" /></a>
 </p>
-
+<br>
+<br>
+<br>
 
 <h3 align="left">Languages and Tools I've worked with so far:</h3>
 <p align="left"> 
