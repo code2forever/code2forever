@@ -100,7 +100,6 @@
 <br/>
 <br/>
 
-
 <div align="center"><img src="mancoding.gif" alt="nothing to show" align="center" text-align="center"/></div>
 <br/>
 <br/>
