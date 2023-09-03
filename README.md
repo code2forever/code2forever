@@ -34,7 +34,7 @@
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
 <h3 align="left">Connect with me:</h3>
-<img src="https://i.imgur.com/yOp2PU2.gif" alt="saitama" align="right" width="150px"/>
+<img src="https://i.imgur.com/yOp2PU2.gif" alt="saitama" align="right" width="200px"/>
 <p align="left">
 <a href="https://linkedin.com/in/kalash-agrahari-7403b4220" target="blank"><img align="center" src="https://i.imgur.com/8NwLi1p.png" alt="kalash@linkedIn" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -48,11 +48,20 @@
 <a href="https://www.hackerrank.com/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/bgpvvrU.png" alt="kalash@hackerRank" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.codingninjas.com/studio/profile/331e7f0a-fa28-42ce-a374-6dd87b338e70" target="blank"><img align="center" src="https://i.imgur.com/KeoooZi.png" alt="kalash@codestudio" height="35" width="160" /></a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.codechef.com/users/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/z8HmxMy.png" alt="kalash@codechef" height="58" width="150" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
 <br>
+<a href="https://monkeytype.com/profile/Kalash_Agrahari" target="blank"><img align="center" src="https://i.imgur.com/RfemLjY.png" alt="kalash@monkeytype" height="40" width="40" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://10fastfingers.com/user/2948720/" target="blank"><img align="center" src="https://i.imgur.com/aSTlEQm.png" alt="kalash@10fastfingers" height="35" width="160" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://data.typeracer.com/pit/profile?user=asdforever" target="blank"><img align="center" src="https://i.imgur.com/OoNGTh5.gif" alt="kalash@typeracer" height="50" width="50" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<br>
+<br>
+
 </p>
 <br>
 <br>
