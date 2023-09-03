@@ -1,6 +1,6 @@
 <h1 align="center">Your Journey For The Masterpiece Ends Here</h1>
 <h2 align="center"><img src="https://i.imgur.com/DbrjBct.jpg" alt="Amazing Stuff"/></h2>
-<h1 align="center">Hey there <sub><img width="50px" src="https://i.imgur.com/dsEcTpo.gif" alt="Wave hand"/></sub>, I'm Kalash Agrahari<img src="https://i.imgur.com/6q1PBOK.gif" width="150px" align="right"/></h1>
+<h1 align="center">Hey there <sub><img width="50px" src="https://i.imgur.com/dsEcTpo.gif" alt="Wave hand"/></sub>, I'm Kalash Agrahari <img src="https://i.imgur.com/9sYmZgN.gif" width="150px" align="right" alt = "groot says hi"/></h1>
  
 <h3 align="center">A Tech Enthusiast From India</h3>
 
