@@ -87,7 +87,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/X8lLlmr.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/LrSemwG.png" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/7b3xPqc.png" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/ztVpctn.png" alt="nextjs" width="40" height="40"/> </a> 
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/ztVpctn.png" alt="nextjs" width="40" height="30"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/KbZeEq4.png" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/bLWKAPU.png" alt="oracle" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/YFp7iCO.png" alt="postman" width="40" height="40"/> </a> 
