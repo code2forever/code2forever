@@ -104,7 +104,7 @@
 <br/>
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=code2forever&show_icons=true&theme=radical&locale=en&layout=compact" alt="code2forever" /></div>
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=code2forever&show_icons=true&theme=radical&locale=en&layout=compact" alt="code2forever" /></div>
 
 <br/>
 <br/>
