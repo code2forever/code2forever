@@ -109,7 +109,7 @@
 <br/>
 <br/>
  
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&theme=radical&locale=en" alt="code2forever" /></div>
+<div align="center"><img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code2forever&show_icons=true&theme=radical&locale=en" alt="code2forever" /></div>
 
 <br/>
 <br/>
