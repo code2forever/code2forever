@@ -3,21 +3,21 @@
     "title": "Snake Awake",
     "image": "https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
     "liveProjectLink": "https://code2forever.github.io/snakeawake/",
-    "repoLink": "https://github.com/code2forever/snakeawake"
+    "repoLink": "https://github.com/code2forever/snakeawake",
     "category": "web"
   },
   {
     "image": "https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
     "title": "Let's Note",
     "liveProjectLink": "https://letsnoteeditor.netlify.app/",
-    "repoLink": ""
+    "repoLink": "",
     "category": "app"
   },
   {
     "image": "https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
     "title": "Minecraft Clone",
     "liveProjectLink": "",
-    "repoLink": "https://github.com/code2forever/minecraftClone-JS"
+    "repoLink": "https://github.com/code2forever/minecraftClone-JS",
     "category": "design"
   }
 ]
