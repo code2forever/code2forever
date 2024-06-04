@@ -1,20 +1,23 @@
 [
   {
-    "imageLink":"https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
     "title": "Snake Awake",
+    "image": "https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
     "liveProjectLink": "https://code2forever.github.io/snakeawake/",
     "repoLink": "https://github.com/code2forever/snakeawake"
+    "category": "web"
   },
   {
-    "imageLink":"https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
+    "image": "https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
     "title": "Let's Note",
     "liveProjectLink": "https://letsnoteeditor.netlify.app/",
     "repoLink": ""
+    "category": "app"
   },
   {
-    "imageLink":"https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
+    "image": "https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
     "title": "Minecraft Clone",
     "liveProjectLink": "",
     "repoLink": "https://github.com/code2forever/minecraftClone-JS"
+    "category": "design"
   }
 ]
