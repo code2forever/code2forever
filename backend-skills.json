@@ -4,5 +4,5 @@
   { "name": "MySQL", "level": "Intermediate" },
   { "name": "Django", "level": "Basic" },
   { "name": "SQL", "level": "Intermediate" },
-  { "name": "PHP", "level": "Intermediate" },
+  { "name": "PHP", "level": "Intermediate" }
 ]
