@@ -1,8 +1,8 @@
 [
-  { "name": "PHP", "level": "Intermediate" },
-  { "name": "Node JS", "level": "Basic" },
+  { "name": "Node JS", "level": "Intermediate" },
   { "name": "Python", "level": "Intermediate" },
   { "name": "MySQL", "level": "Intermediate" },
-  { "name": "Firebase", "level": "Intermediate" },
-  { "name": "SQL", "level": "Intermediate" }
+  { "name": "Django", "level": "Basic" },
+  { "name": "SQL", "level": "Intermediate" },
+  { "name": "PHP", "level": "Intermediate" },
 ]
