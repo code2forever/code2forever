@@ -1,3 +1,20 @@
-name : kalash agrahari
-
-work : frontend developer
+[
+  {
+    "imageLink":"https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
+    "title": "Snake Awake",
+    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
+    "repoLink": "https://github.com/code2forever/snakeawake"
+  },
+  {
+    "imageLink":"https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
+    "title": "Let's Note",
+    "liveProjectLink": "https://letsnoteeditor.netlify.app/",
+    "repoLink": ""
+  },
+  {
+    "imageLink":"https://github.com/code2forever/snakeawake/blob/master/snakeawakebg.JPG",
+    "title": "Minecraft Clone",
+    "liveProjectLink": "",
+    "repoLink": "https://github.com/code2forever/minecraftClone-JS"
+  }
+]
