@@ -64,6 +64,14 @@
     "category": "web"
   },
   {
+    "title": "Sololearn - Responsive",
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/sololearn.png",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "link":"https://drive.google.com/file/d/1YN_7EVqu7l6eXMKZ-6COsfzpdVGztijx/view?usp=sharing",
+    "category": "web"
+  },
+  {
     "title": "Hackerrank - Javascript",
     "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/hackerrank.png",
     "liveProjectLink": "",
@@ -110,14 +118,6 @@
     "repoLink": "",
     "link":"https://drive.google.com/file/d/13KCPxmBTcwGK8IbuwqOqbYhsp0bNMFaA/view?usp=sharing",
     "category": "typing"
-  },
-  {
-    "title": "Sololearn - Responsive",
-    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/sololearn.png",
-    "liveProjectLink": "",
-    "repoLink": "",
-    "link":"https://drive.google.com/file/d/1YN_7EVqu7l6eXMKZ-6COsfzpdVGztijx/view?usp=sharing",
-    "category": "web"
   },
   {
     "title": "Sololearn - SQL",
