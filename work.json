@@ -1,23 +1,58 @@
 [
   {
-    "title": "Snake Awake",
-    "image": "https://raw.githubusercontent.com/code2forever/snakeawake/master/snakeawakebg.JPG",
-    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
-    "repoLink": "https://github.com/code2forever/snakeawake",
+    "title": "Bounce Battle",
+    "image": "https://raw.githubusercontent.com/code2forever/Bounce-Battle/master/readme-image/ss_05.png",
+    "liveProjectLink": "",
+    "repoLink": "https://github.com/code2forever/Bounce-Battle",
+    "category": "python"
+  },
+  {
+    "title": "Minecraft",
+    "image": "https://raw.githubusercontent.com/code2forever/minecraftClone-JS/master/images/construction.png",
+    "liveProjectLink": "https://minecraftonjs.netlify.app/",
+    "repoLink": "https://github.com/code2forever/minecraftClone-JS",
     "category": "web"
   },
   {
+    "title": "Lets Node",
     "image": "https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
-    "title": "Let's Note",
     "liveProjectLink": "https://letsnoteeditor.netlify.app/",
-    "repoLink": "",
-    "category": "graphic"
+    "repoLink": "https://github.com/code2forever/letsNote",
+    "category": "web"
   },
   {
-    "image": "https://raw.githubusercontent.com/code2forever/snakeawake/master/snakeawakebg.JPG",
-    "title": "Minecraft Clone",
-    "liveProjectLink": "",
-    "repoLink": "https://github.com/code2forever/minecraftClone-JS",
-    "category": "coding"
+    "image": "https://raw.githubusercontent.com/code2forever/profileCard/master/readme_img/profileCard.PNG",
+    "title": "Profile card",
+    "liveProjectLink": "https://kalashagrahariprofile.netlify.app",
+    "repoLink": "https://github.com/code2forever/profileCard",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/memeGenerator/master/readme_image/meme_generator.PNG",
+    "title": "Meme Generator",
+    "liveProjectLink": "https://memeisfun.netlify.app/",
+    "repoLink": "https://github.com/code2forever/memeGenerator",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/tenziesGame/master/readme_image/day.png",
+    "title": "Tenzies Game",
+    "liveProjectLink": "https://playontenzies.netlify.app/",
+    "repoLink": "https://github.com/code2forever/tenziesGame",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/quizzicle/master/readme_images/intro.png",
+    "title": "Quizzicle",
+    "liveProjectLink": "https://quizicals.netlify.app/",
+    "repoLink": "https://github.com/code2forever/quizzicle",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/snakeawake/master/readme-image/ss_01.JPG",
+    "title": "Snake Awake",
+    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
+    "repoLink": "https://github.com/code2forever/snakeawake",
+    "category": "web"
   }
 ]
