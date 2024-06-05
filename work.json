@@ -16,26 +16,18 @@
     "category": "web"
   },
   {
-    "title": "Lets Node",
-    "image": "https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
-    "liveProjectLink": "https://letsnoteeditor.netlify.app/",
-    "repoLink": "https://github.com/code2forever/letsNote",
-    "viewMoreLink":"",
-    "category": "web"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/code2forever/profileCard/master/readme_img/profileCard.PNG",
-    "title": "Profile card",
-    "liveProjectLink": "https://kalashagrahariprofile.netlify.app",
-    "repoLink": "https://github.com/code2forever/profileCard",
-    "viewMoreLink":"",
-    "category": "web"
-  },
-  {
     "image": "https://raw.githubusercontent.com/code2forever/memeGenerator/master/readme_image/meme_generator.PNG",
     "title": "Meme Generator",
     "liveProjectLink": "https://memeisfun.netlify.app/",
     "repoLink": "https://github.com/code2forever/memeGenerator",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/snakeawake/master/readme-image/ss_01.JPG",
+    "title": "Snake Awake",
+    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
+    "repoLink": "https://github.com/code2forever/snakeawake",
     "viewMoreLink":"",
     "category": "web"
   },
@@ -56,10 +48,18 @@
     "category": "web"
   },
   {
-    "image": "https://raw.githubusercontent.com/code2forever/snakeawake/master/readme-image/ss_01.JPG",
-    "title": "Snake Awake",
-    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
-    "repoLink": "https://github.com/code2forever/snakeawake",
+    "title": "Lets Node",
+    "image": "https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
+    "liveProjectLink": "https://letsnoteeditor.netlify.app/",
+    "repoLink": "https://github.com/code2forever/letsNote",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/profileCard/master/readme_img/profileCard.PNG",
+    "title": "Profile card",
+    "liveProjectLink": "https://kalashagrahariprofile.netlify.app",
+    "repoLink": "https://github.com/code2forever/profileCard",
     "viewMoreLink":"",
     "category": "web"
   },
@@ -110,5 +110,13 @@
     "repoLink": "",
     "viewMoreLink": "https://www.codechef.com/users/agraharikalash",
     "category": "coding"
+  },
+  {
+    "image": "",
+    "title": "",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "",
+    "category": ""
   }
 ]
