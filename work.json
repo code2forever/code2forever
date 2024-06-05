@@ -11,13 +11,13 @@
     "title": "Let's Note",
     "liveProjectLink": "https://letsnoteeditor.netlify.app/",
     "repoLink": "",
-    "category": "app"
+    "category": "graphic"
   },
   {
     "image": "https://raw.githubusercontent.com/code2forever/snakeawake/master/snakeawakebg.JPG",
     "title": "Minecraft Clone",
     "liveProjectLink": "",
     "repoLink": "https://github.com/code2forever/minecraftClone-JS",
-    "category": "design"
+    "category": "coding"
   }
 ]
