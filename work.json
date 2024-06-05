@@ -4,6 +4,7 @@
     "image": "https://raw.githubusercontent.com/code2forever/Bounce-Battle/master/readme-image/ss_05.png",
     "liveProjectLink": "",
     "repoLink": "https://github.com/code2forever/Bounce-Battle",
+    "viewMoreLink":"",
     "category": "python"
   },
   {
@@ -11,6 +12,7 @@
     "image": "https://raw.githubusercontent.com/code2forever/minecraftClone-JS/master/images/construction.png",
     "liveProjectLink": "https://minecraftonjs.netlify.app/",
     "repoLink": "https://github.com/code2forever/minecraftClone-JS",
+    "viewMoreLink":"",
     "category": "web"
   },
   {
@@ -18,6 +20,7 @@
     "image": "https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
     "liveProjectLink": "https://letsnoteeditor.netlify.app/",
     "repoLink": "https://github.com/code2forever/letsNote",
+    "viewMoreLink":"",
     "category": "web"
   },
   {
@@ -25,6 +28,7 @@
     "title": "Profile card",
     "liveProjectLink": "https://kalashagrahariprofile.netlify.app",
     "repoLink": "https://github.com/code2forever/profileCard",
+    "viewMoreLink":"",
     "category": "web"
   },
   {
@@ -32,6 +36,7 @@
     "title": "Meme Generator",
     "liveProjectLink": "https://memeisfun.netlify.app/",
     "repoLink": "https://github.com/code2forever/memeGenerator",
+    "viewMoreLink":"",
     "category": "web"
   },
   {
@@ -39,6 +44,7 @@
     "title": "Tenzies Game",
     "liveProjectLink": "https://playontenzies.netlify.app/",
     "repoLink": "https://github.com/code2forever/tenziesGame",
+    "viewMoreLink":"",
     "category": "web"
   },
   {
@@ -46,6 +52,7 @@
     "title": "Quizzicle",
     "liveProjectLink": "https://quizicals.netlify.app/",
     "repoLink": "https://github.com/code2forever/quizzicle",
+    "viewMoreLink":"",
     "category": "web"
   },
   {
@@ -53,6 +60,15 @@
     "title": "Snake Awake",
     "liveProjectLink": "https://code2forever.github.io/snakeawake/",
     "repoLink": "https://github.com/code2forever/snakeawake",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "",
+    "title": "Snake Awake",
+    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
+    "repoLink": "https://github.com/code2forever/snakeawake",
+    "viewMoreLink":"",
     "category": "web"
   }
 ]
