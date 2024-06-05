@@ -64,11 +64,51 @@
     "category": "web"
   },
   {
-    "image": "",
-    "title": "Snake Awake",
-    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
-    "repoLink": "https://github.com/code2forever/snakeawake",
-    "viewMoreLink":"",
-    "category": "web"
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/leetcode.jpeg",
+    "title": "Leetcode",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "https://leetcode.com/u/agraharikalash/",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/gfg.jpeg",
+    "title": "GeeksforGeeks",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://www.geeksforgeeks.org/user/agraharik9696/",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/codingninjas.png",
+    "title": "CodeStudio - Coding Ninjas",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://www.naukri.com/code360/profile/331e7f0a-fa28-42ce-a374-6dd87b338e70",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/sololearn.png",
+    "title": "Sololearn",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://www.sololearn.com/en/profile/10693628",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/hackerrank.png",
+    "title": "HackerRank",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "https://www.hackerrank.com/profile/agraharik9696",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/codechef.png",
+    "title": "CodeChef",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "https://www.codechef.com/users/agraharikalash",
+    "category": "coding"
   }
 ]
