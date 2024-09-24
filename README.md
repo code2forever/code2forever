@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on **React projects**
 
+- 🌟 Explore my [portfolio](https://kalashagrahari.netlify.app/) to check out my experience, projects, education, and certifications!
+
 - 👨‍💻 Check out my **React projects** on [app.netlify.com/teams/code2forever](https://app.netlify.com/teams/code2forever/overview)  
 
 - 🌱 Currently learning **React.js and Blockchain Development**
