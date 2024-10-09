@@ -56,7 +56,7 @@
 
  <div style="display: flex; justify-content: center;">
   <a href = "https://leetcode.com/u/agraharikalash/">
-<img style="width: 70%;" class="leetcodeStatsContest" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest,activiy" alt="Leetcode Stats">
+<img style="width: 70%;" class="leetcodeStatsContest" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest" alt="Leetcode Stats">
   </a>
  </div>
 
