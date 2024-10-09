@@ -56,25 +56,36 @@
 
  <div style="display: flex; justify-content: center;">
   <a href = "https://leetcode.com/u/agraharikalash/">
-<img style="width: 70%;" class="leetcodeStatsContest" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest" alt="Leetcode Stats">
+<img style="width: 70%;" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest" alt="Leetcode Stats">
   </a>
  </div>
 
  <div style="display: flex; justify-content: center;">
   <a href = "https://leetcode.com/u/agraharikalash/">
-<img style="width: 70%;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=activity" alt="Leetcode Stats">
+<img style="width: 70%;" src="https://leetcard.jacoblin.cool/agraharikalash?ext=activity" alt="Leetcode Stats">
   </a>
  </div>
 
  <div style="display: flex; justify-content: center;">
   <a href = "https://leetcode.com/u/agraharikalash/">
-<img style="width: 70%;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=heatmap" alt="Leetcode Stats">
+<img style="width: 70%;" src="https://leetcard.jacoblin.cool/agraharikalash?ext=heatmap" alt="Leetcode Stats">
   </a>
  </div>
 
 <br/>
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
+
+<div style="display: flex; justify-content: center;">
+<a href = "https://www.geeksforgeeks.org/user/agraharik9696/">
+<img style="width: 70%;" src="https://geeks-for-geeks-stats-card.vercel.app/?username=agraharik9696" alt="GFG stats"/>
+</a>
+</div>
+
+<br/>
+<img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
+<br/>
+
 <h3 align="left">Connect with me ☕</h3>
 <img src="https://i.imgur.com/yOp2PU2.gif" alt="saitama" align="right" width="200px"/>
 <p align="left">
