@@ -36,17 +36,17 @@
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
  
-<img style="width: 80%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=comp&theme=dark" alt="LeetCode Badges"/>
+<img style="width: 70%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=comp&theme=tokyonight" alt="LeetCode Badges"/>
 
-<img style="width: 80%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=daily&theme=dark" alt="LeetCode Badges"/>
+<img style="width: 70%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=daily&theme=tokyonight" alt="LeetCode Badges"/>
 
-<img style="width: 80%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=study&theme=dark" alt="LeetCode Badges"/>
+<img style="width: 70%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=study&theme=tokyonight" alt="LeetCode Badges"/>
 
-<img style="width: 80%; display: block; margin: 0 auto;" class="leetcodeStatsContest" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest" alt="Leetcode Stats">
+<img style="width: 70%; display: block; margin: 0 auto;" class="leetcodeStatsContest" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest,activiy" alt="Leetcode Stats">
 
-<img style="width: 80%; display: block; margin: 0 auto;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=activity" alt="Leetcode Stats">
+<img style="width: 70%; display: block; margin: 0 auto;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=activity" alt="Leetcode Stats">
 
-<img style="width: 80%; display: block; margin: 0 auto;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=heatmap" alt="Leetcode Stats">
+<img style="width: 70%; display: block; margin: 0 auto;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=heatmap" alt="Leetcode Stats">
 
 
 <br/>
