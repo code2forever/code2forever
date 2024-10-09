@@ -35,19 +35,42 @@
 <br/>
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
- 
-<img style="width: 70%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=comp&theme=tokyonight" alt="LeetCode Badges"/>
 
-<img style="width: 70%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=daily&theme=tokyonight" alt="LeetCode Badges"/>
+ <div style="display: flex; justify-content: center;">
+  <a href = "https://leetcode.com/u/agraharikalash/">
+<img style="width: 70%;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=comp&theme=tokyonight" alt="LeetCode Badges"/>
+  </a>
+ </div>
 
-<img style="width: 70%; display: block; margin: 0 auto;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=study&theme=tokyonight" alt="LeetCode Badges"/>
+ <div style="display: flex; justify-content: center;">
+  <a href = "https://leetcode.com/u/agraharikalash/">
+<img style="width: 70%;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=daily&theme=tokyonight" alt="LeetCode Badges"/>
+  </a>
+ </div>
 
-<img style="width: 70%; display: block; margin: 0 auto;" class="leetcodeStatsContest" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest,activiy" alt="Leetcode Stats">
+ <div style="display: flex; justify-content: center;">
+  <a href = "https://leetcode.com/u/agraharikalash/">
+<img style="width: 70%;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=study&theme=tokyonight" alt="LeetCode Badges"/>
+  </a>
+ </div>
 
-<img style="width: 70%; display: block; margin: 0 auto;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=activity" alt="Leetcode Stats">
+ <div style="display: flex; justify-content: center;">
+  <a href = "https://leetcode.com/u/agraharikalash/">
+<img style="width: 70%;" class="leetcodeStatsContest" src="https://leetcard.jacoblin.cool/agraharikalash?ext=contest,activiy" alt="Leetcode Stats">
+  </a>
+ </div>
 
-<img style="width: 70%; display: block; margin: 0 auto;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=heatmap" alt="Leetcode Stats">
+ <div style="display: flex; justify-content: center;">
+  <a href = "https://leetcode.com/u/agraharikalash/">
+<img style="width: 70%;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=activity" alt="Leetcode Stats">
+  </a>
+ </div>
 
+ <div style="display: flex; justify-content: center;">
+  <a href = "https://leetcode.com/u/agraharikalash/">
+<img style="width: 70%;" class="leetcodeStatsActivity" src="https://leetcard.jacoblin.cool/agraharikalash?ext=heatmap" alt="Leetcode Stats">
+  </a>
+ </div>
 
 <br/>
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
