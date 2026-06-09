@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code2forever&label=Profile%20views&color=0e75b6&style=flat" alt="code2forever" /> </p>
 
-- 💼 Full Stack Developer with ~3 years of experience building **scalable** web applications, REST APIs, and backend systems.
+- 💼 Full Stack Developer with 3+ years of experience building **scalable** web applications, REST APIs, and backend systems.
 
 - 🏗️ Passionate about System Design, scalability, and understanding how large-scale systems are built.
 
