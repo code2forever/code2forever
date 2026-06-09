@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I am in love with Japanese Culture. All time Otaku <3.**
 
-- 🎓 Into my **Bachelors Degree** From **Computer Science**
+- 🎓 Completed my **Bachelors Degree** in **Computer Science**
 
 - ⌨️ Passionate **Typer** <img src="https://i.imgur.com/7DRwq68.gif" alt="nothing to show" align="center" width="50px"/>
 
