@@ -32,7 +32,7 @@
 
 - 🎓 Completed my **Bachelors Degree** in **Computer Science**
 
-- ⌨️ Passionate **Typer** <img src="https://i.imgur.com/7DRwq68.gif" alt="nothing to show" align="center" width="50px"/>
+- ⌨️ Passionate <a href ="https://10fastfingers.com/user/kalash-agrahari"> **Typer** </a><img src="https://i.imgur.com/7DRwq68.gif" alt="nothing to show" align="center" width="50px"/>
 
 <br/>
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
