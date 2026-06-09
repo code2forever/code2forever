@@ -128,7 +128,7 @@
 <br>
 <br>
 
-<h3 align="left">Languages and Tools I've worked with so far:</h3>
+<h3 align="left">Technologies I've Worked With</h3>
 <p align="left"> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/pVOiiRL.png" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/fe8I65c.png" alt="c" width="40" height="40"/> </a> 
@@ -158,6 +158,75 @@
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/P86UWhp.png" alt="sass" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/WDGEzcD.png" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/ZahGn8k.png" alt="xd" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Tech Stack & Tools</h3>
+
+## ⚡ Technologies I've Worked With
+
+### 🧠 Languages & Fundamentals
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c)
+![OOP](https://img.shields.io/badge/OOP-111827?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-111827?style=for-the-badge)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-111827?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/Sass-111827?style=for-the-badge&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
+![Pug](https://img.shields.io/badge/Pug-111827?style=for-the-badge&logo=pug)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth-111827?style=for-the-badge&logo=auth0)
+![Authentication](https://img.shields.io/badge/Authentication-111827?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-111827?style=for-the-badge)
+
+### 🗄️ Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-111827?style=for-the-badge&logo=amazons3)
+![CloudFront](https://img.shields.io/badge/CloudFront-111827?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-111827?style=for-the-badge&logo=amazonec2)
+![SQS](https://img.shields.io/badge/SQS-111827?style=for-the-badge&logo=amazonaws)
+![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-111827?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes)
+
+### 🚀 Performance & Optimization
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-111827?style=for-the-badge&logo=googlechrome)
+![PageSpeed Insights](https://img.shields.io/badge/PageSpeed_Insights-111827?style=for-the-badge&logo=googlepagespeedinsights)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-111827?style=for-the-badge&logo=lighthouse)
+
+### 🔍 Quality, Testing & CI/CD
+![SonarQube](https://img.shields.io/badge/SonarQube-111827?style=for-the-badge&logo=sonarqube)
+![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+
+### 🤖 AI & Modern Technologies
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+
+### 🤝 Design & Collaboration
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-111827?style=for-the-badge&logo=adobeillustrator)
+![Agile](https://img.shields.io/badge/Agile-111827?style=for-the-badge) 
 <br/>
 <br/>
 
