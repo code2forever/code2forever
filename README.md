@@ -6,23 +6,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code2forever&label=Profile%20views&color=0e75b6&style=flat" alt="code2forever" /> </p>
 
-- 🔭 I’m currently working on **React projects**
+- 💼 Full Stack Developer with ~3 years of experience building **scalable** web applications, REST APIs, and backend systems.
+
+- 🏗️ Passionate about System Design, scalability, and understanding how large-scale systems are built.
+
+- 🧠 Solved 1800+ Data Structures and Algorithms based problems across LeetCode, GeeksforGeeks, Coding Ninjas, and other platforms.
+
+- ⚙️ Interested in Backend Engineering, APIs, databases, caching, authentication, and distributed systems.
+
+- 🤖 Currently exploring LLMs, RAG architectures, and AI-powered applications.
+
+- 🚀 Portfolio: https://kalashagrahari.netlify.app/
 
 - 🌟 Explore my [portfolio](https://kalashagrahari.netlify.app/) to check out my experience 💼, projects 🚀, education 🎓, and certifications 📜!
 
-- 👨‍💻 Check out my **React projects** on [app.netlify.com/teams/code2forever](https://app.netlify.com/teams/code2forever/overview)  
+- 👨‍💻 Check out my **MERN projects** on [app.netlify.com/teams/code2forever](https://app.netlify.com/teams/code2forever/overview)  
 
-- 🌱 Currently learning **React.js and Blockchain Development**
+- 📝 Catch my other stuffs on [KalashAgrahari.blogspot.com](KalashAgrahari.blogspot.com), [DrawLinguistic.blogspot.com](drawlinguistic.blogspot.com)
 
-- 👯 Looking to collaborate on **web 2.0, web 3.0**
+- 💬 Ask me about System Design, Backend Engineering, Node.js, MongoDB, Python, React.js and DSA.
 
-- 👨‍💻 All of my **Projects** are available at [KalashAgrahari.blogspot.com](KalashAgrahari.blogspot.com)
-
-- 📝 Catch my other stuffs on [DrawLinguistic.blogspot.com](drawlinguistic.blogspot.com)
-
-- 💬 Ask me about **Full stack web development, Designing and Problem solving**
-
-- 📫 How to reach me **agraharik9696@gmail.com**
+- 📫 Reach me at: agraharik9696@gmail.com
 
 - ⚡ Fun fact **I am in love with Japanese Culture. All time Otaku <3.**
 
