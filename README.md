@@ -38,6 +38,12 @@
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
 <br/>
 
+<div style="display: flex; justify-content: center;">
+  <a href = "https://leetcode.com/u/agraharikalash/">
+<img style="width: 70%;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&theme=tokyonight&filter=submission&border=border&animated=true" alt="LeetCode Badges"/>
+  </a>
+ </div>
+
  <div style="display: flex; justify-content: center;">
   <a href = "https://leetcode.com/u/agraharikalash/">
 <img style="width: 70%;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&theme=tokyonight&filter=annual&border=border&animated=true" alt="LeetCode Badges"/>
@@ -80,7 +86,7 @@
 
 <div style="display: flex; justify-content: center;">
 <a href = "https://www.geeksforgeeks.org/user/agraharik9696/">
-<img style="width: 70%;" src="https://geeks-for-geeks-stats-card.vercel.app/?username=agraharik9696" alt="GFG stats"/>
+<img style="width: 70%;" src="https://geeks-for-geeks-stats-card.vercel.app/kalashagrahari?theme=dark" alt="GFG stats"/>
 </a>
 </div>
 
@@ -159,7 +165,9 @@
 <br/>
 <br/>
 
-<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=code2forever&show_icons=true&theme=radical&locale=en&layout=compact" alt="code2forever" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&theme=radical&rank_icon=github" alt="Kalash's GitHub stats" />
+</div>
 
 <br/>
 <br/>
