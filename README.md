@@ -1,8 +1,8 @@
-<h1 align="center">Your Journey For The Masterpiece Ends Here</h1>
+<h1 align="center">Building scalable systems, one problem at a time.</h1>
 <h2 align="center"><img src="https://i.imgur.com/DbrjBct.jpg" alt="Amazing Stuff"/></h2>
 <h1 align="center">Hey there <sub><img width="50px" src="https://i.imgur.com/dsEcTpo.gif" alt="Wave hand"/></sub>, I'm Kalash Agrahari <img src="https://i.imgur.com/9sYmZgN.gif" width="150px" align="right" alt = "groot says hi"/></h1>
  
-<h3 align="center">A Tech Enthusiast From India</h3>
+<h3 align="center"> Full Stack Developer • Backend Engineering • System Design • DSA </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code2forever&label=Profile%20views&color=0e75b6&style=flat" alt="code2forever" /> </p>
 
@@ -40,7 +40,7 @@
 
  <div style="display: flex; justify-content: center;">
   <a href = "https://leetcode.com/u/agraharikalash/">
-<img style="width: 70%;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&animated=true&filter=comp&theme=tokyonight" alt="LeetCode Badges"/>
+<img style="width: 70%;" src="https://leetcode-badge-showcase.vercel.app/api?username=agraharikalash&theme=tokyonight&filter=annual&border=border&animated=true" alt="LeetCode Badges"/>
   </a>
  </div>
 
