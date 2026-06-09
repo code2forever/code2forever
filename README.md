@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code2forever&label=Profile%20views&color=0e75b6&style=flat" alt="code2forever" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
-
 - 🔭 I’m currently working on **React projects**
 
 - 🌟 Explore my [portfolio](https://kalashagrahari.netlify.app/) to check out my experience 💼, projects 🚀, education 🎓, and certifications 📜!
