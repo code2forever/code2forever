@@ -101,7 +101,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.leetcode.com/agraharikalash" target="blank"><img align="center" src="https://i.imgur.com/WVg5JLE.png" alt="kalash@leetcode" height="45" width="40" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/agraharik9696" target="blank"><img align="center" src="https://i.imgur.com/nROhfhN.png" alt="kalash@GFG" height="30" width="50" /></a>
+<a href="https://www.geeksforgeeks.org/profile/kalashagrahari" target="blank"><img align="center" src="https://i.imgur.com/nROhfhN.png" alt="kalash@GFG" height="30" width="50" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://kalashagrahari.blogspot.com/" target="blank"><img align="center" src="https://i.imgur.com/VfmVc3I.png" alt="kalash@blogger" height="50" width="50" /></a>
 <br>
@@ -116,7 +116,7 @@
 <br>
 <a href="https://monkeytype.com/profile/Kalash_Agrahari" target="blank"><img align="center" src="https://i.imgur.com/RfemLjY.png" alt="kalash@monkeytype" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://10fastfingers.com/user/2948720/" target="blank"><img align="center" src="https://i.imgur.com/aSTlEQm.png" alt="kalash@10fastfingers" height="35" width="160" /></a>
+<a href="https://10fastfingers.com/user/kalash-agrahari" target="blank"><img align="center" src="https://i.imgur.com/aSTlEQm.png" alt="kalash@10fastfingers" height="35" width="160" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://data.typeracer.com/pit/profile?user=asdforever" target="blank"><img align="center" src="https://i.imgur.com/OoNGTh5.gif" alt="kalash@typeracer" height="50" width="50" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
