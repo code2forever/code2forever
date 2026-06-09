@@ -166,18 +166,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code2forever&show_icons=true&theme=radical&rank_icon=github" alt="Kalash's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=code2forever&theme=tokyonight" alt="Kalash's GitHub stats" />
 </div>
-
-<br/>
-<br/>
- 
-<div align="center"><img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code2forever&show_icons=true&theme=radical&locale=en" alt="code2forever" /></div>
-
-<br/>
-<br/>
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code2forever&theme=radical" alt="code2forever" /></div>
 <br/>
 <br/>
 <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
